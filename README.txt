@@ -1,0 +1,1 @@
+Put .desktop file in kyle/.local/share/applications

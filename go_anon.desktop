@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GoAnon
+Exec=bash go_anon.sh
+Type=Application
+StartupNotify=true
+Path=/home/kyle/Projects/Scripts/GoAnon
+Icon=/home/kyle/Projects/Scripts/GoAnon/fsociety.jpg
